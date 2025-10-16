@@ -7,3 +7,6 @@
 |language_model|语言模型微调|
 |audio_model|音频模型微调|
 |vision_model|视觉模型微调|
+
+### 软件环境
+- python 3.10
